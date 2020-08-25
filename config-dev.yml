@@ -1,6 +1,2 @@
-server:
-  port: 8888
-
-spring:
-  application:
-    name: dev-service #服务名称
+config:
+  info: config-dev.yml version
