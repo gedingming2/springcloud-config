@@ -1,0 +1,6 @@
+server:
+  port: 8889
+
+spring:
+  application:
+    name: prod-service #服务名称
